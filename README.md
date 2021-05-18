@@ -7,5 +7,6 @@ toogeling the software/Hardware handshake (dsrdtr,rtscts,xonxoff)
 
 Unplug/Plug in the nRF52840-Dongle before running the script CircuitPythonWinBugFix.py
 
+![The Fix in action](ThonnyFix.PNG)
 
 
